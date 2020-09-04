@@ -6,4 +6,4 @@
 ![Riari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riari&count_private=true&show_icons=true&theme=dracula)
 ![Riari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riari&theme=dracula&layout=compact)
 
-See also: [LinkedIn](https://www.linkedin.com/in/riari/), [Twitter](https://twitter.com/DevRiari)
+See also: [LinkedIn](https://www.linkedin.com/in/riari/)
