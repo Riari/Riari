@@ -8,12 +8,12 @@
 ### Proficiencies
 
 **Languages:** C#, Java, C++, Python, PHP, JavaScript, TypeScript\
-**Frameworks:** Laravel, Express, Vue.js, React\
+**Frameworks:** Laravel, Express, Vue.js, React, React Native\
 **Game Engines:** Unity, Godot\
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis\
 **Editors:** VS Code, Visual Studio, JetBrains IDEs\
-**Tools & Infrastructure:** Git, WSL, Docker, Kubernetes\
-**Platforms & Services:** Web, Desktop, Mobile, AWS, Cloudflare
+**Platforms & Services:** Web, Desktop, Mobile\
+**Tools, Services & Infrastructure:** Git, WSL, Docker, Kubernetes, AWS, Cloudflare
 
 ### Stats
 
