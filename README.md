@@ -10,7 +10,6 @@
 **Languages:** C#, Java, C++, Python, PHP, JavaScript, TypeScript\
 **Frameworks:** Laravel, Express, Vue.js, React\
 **Game Engines:** Unity, Godot\
-**Graphics:** SDL2, LWJGL, GLFW, OpenGL\
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis\
 **Editors:** VS Code, Visual Studio, JetBrains IDEs\
 **Tools:** Git, WSL\
