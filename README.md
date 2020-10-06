@@ -12,7 +12,7 @@
 **Game Engines:** Unity, Godot\
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis\
 **Editors:** VS Code, Visual Studio, JetBrains IDEs\
-**Platforms & Services:** Web, Desktop, Mobile\
+**Platforms:** Web, Desktop, Mobile\
 **Tools, Services & Infrastructure:** Git, WSL, Docker, Kubernetes, AWS, Cloudflare
 
 ### Stats
