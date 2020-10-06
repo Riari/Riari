@@ -19,7 +19,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riari&count_private=true&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riari&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riari&theme=dracula&layout=compact&langs_count=6" />
 </div>
 
 See also: [LinkedIn](https://www.linkedin.com/in/riari/)
+
+<!-- Resources -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
