@@ -4,8 +4,8 @@
 ○ Applies the Dracula theme to almost everything (as evidenced below).
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=riari&count_private=true&show_icons=true&theme=dracula" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riari&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riari&count_private=true&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riari&theme=dracula&layout=compact" />
 </div>
 
 See also: [LinkedIn](https://www.linkedin.com/in/riari/)
