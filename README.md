@@ -5,16 +5,6 @@
 ○ Uses a Kanban board to organise all of the games he bought in sales and still hasn't played.  
 ○ Applies the Dracula theme to almost everything (as evidenced below).
 
-### Proficiencies
-
-**Languages:** C#, Java, C++, Python, PHP, JavaScript, TypeScript\
-**Frameworks:** Laravel, Express, Vue.js, React, React Native\
-**Game Engines:** Unity, Godot\
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis\
-**Editors:** VS Code, Visual Studio, JetBrains IDEs\
-**Platforms:** Web, Desktop, Mobile\
-**Tools, Services & Infrastructure:** Git, WSL, Docker, Kubernetes, AWS, Cloudflare
-
 ### Stats
 
 <div align="center">
