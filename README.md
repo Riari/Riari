@@ -1,7 +1,7 @@
 ### About
 
-○ A creatively minded developer with over 12 years of experience in a diverse range of frontend and backend technologies.  
-○ An aspiring game dev with a background in full stack web dev.  
+○ A creatively minded developer with ~15 years of experience in a diverse range of frontend and backend technologies.  
+○ A game dev with a background in full stack web dev.  
 ○ Uses a Kanban board to organise all of the games he bought in sales and still hasn't played.  
 ○ Applies the Dracula theme to almost everything (as evidenced below).
 
