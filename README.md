@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riari&theme=material-palenight&bg_color=292d3e&hide_border=true&layout=compact&langs_count=6&exclude_repo=riari.dev,laravel-forum-frontend,dailies,vuepress-api-test,arvale.world,drf-vue,tron-legacy-atom,rna-guild.net" />
 </div>
 
-See also: [LinkedIn](https://www.linkedin.com/in/rm-uk/)
+See also: [LinkedIn](https://www.linkedin.com/in/rick-uk/)
 
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
